@@ -21,7 +21,7 @@ Python
 
 ## Future Works
 ```
-1. Add a GUI.
+1. Add a GUI.  **PyQt
 2. Add an option to add to the list without editing the txt file.
 3. Show how many is on the list.
 4. Create an executable file.
