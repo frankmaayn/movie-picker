@@ -14,7 +14,6 @@ Dragon Ball Super:Brolly
 Saturday Night Fever
 12 Years a Slave
 Avenger Series
-Letters from Iwo Jima
 Lalaland
 Korean Zombie movies - train to Busan
 Parasite
@@ -73,7 +72,6 @@ Another Cinderalla Story
 Baby Looney Tunes: Musical Adventures
 Beverly Hills Chihuahua 2
 Gilbert Grape
-Philadelphia
 Saving Private Ryan
 My Way
 Windtalkers
@@ -115,7 +113,6 @@ Zodiac
 Once upon a time in hollywood
 The butler
 Pineapple Express
-Cant buy me love
 Ghostbusters 1 and 2
 ET
 Bill and Teds Exccellent Adventure
@@ -135,7 +132,6 @@ Fear and loathing in Las Vegas
 Teenage Mutant Ninja turles 2
 Caroline
 Underdog
-Pacific Rim
 Freaky Friday
 Rush hour series
 Friday the 13th
@@ -161,3 +157,7 @@ tokyo drift
 The Suicide Squad
 balls of fury
 kung fu hustle
+
+
+
+
